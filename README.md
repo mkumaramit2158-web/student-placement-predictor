@@ -4,6 +4,8 @@ A Machine Learning-based web application that predicts student placement outcome
 
 The system analyzes student-related factors such as academic performance, aptitude, technical skills, communication skills, internships, and projects to predict placement outcomes.
 
+## 🚀 Live Demo : https://amit-student-placement-ml.streamlit.app/
+
 ## 🚀 Project Overview
 
 The Student Placement Predictor is designed to demonstrate how Machine Learning can be used to analyze student information and estimate placement outcomes.
@@ -111,6 +113,8 @@ The reported test accuracy is **84.29%** on a held-out portion of this synthetic
 - Improve model evaluation and prediction reliability.
 - Deploy the application online.
 - Add data visualization and performance analysis.
+
+
 
 ## 👨‍💻 Author
 
